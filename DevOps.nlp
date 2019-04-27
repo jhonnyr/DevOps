@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=DevOps
+project.version=6.5
+project.original.version=4.2
+product.name=NeoLoad
+product.original.name=
+product.original.version=
+project.id=675f98d4-282d-4970-b685-297510649e36
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/jhonnyr/DevOps.git
